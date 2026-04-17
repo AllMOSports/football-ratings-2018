@@ -13,6 +13,7 @@ OUTPUT_PATH   = "football_ratings_2018.json"
 CSV_PATH      = "football_scoreboard_2018.csv"
 ITERATIONS    = 1000
 LEARNING_RATE = 0.1
+COMPETITIVE_THRESHOLD = 35  # Max OVR gap for Phase 2 iterations
  
 # --- SCRAPING ---
  
@@ -103,31 +104,34 @@ def save_csv(all_games):
  
 # --- RATING ENGINE ---
  
-def calculate_ratings(all_games, iterations=ITERATIONS):
-    # Strip date from games for rating calculations
-    games = [(t1, t2, s1, s2) for _, t1, s1, t2, s2 in all_games]
+def run_iterations(games, teams, off_rating, def_rating, league_avg,
+                   iterations, phase_label, ovr_filter=None):
+    """
+    Run a block of gradient-descent iterations.
  
-    teams = list({t for t1, t2, _, _ in games for t in (t1, t2)})
-    if not teams:
-        return {}, {}, {}
+    Phase 1 (ovr_filter=None): every game is used every iteration.
  
-    # Calculate league average points per game
-    all_scores = [s for _, _, s1, s2 in games for s in (s1, s2)]
-    league_avg = sum(all_scores) / len(all_scores)
-    print(f"  League average: {league_avg:.2f} points per game")
- 
-    # Initialize all ratings at 0
-    off_rating = {t: 0.0 for t in teams}
-    def_rating = {t: 0.0 for t in teams}
+    Phase 2 (ovr_filter=float): the eligible game list is rebuilt at the START
+    of each iteration using that iteration's current ratings, so a game can
+    enter or leave the pool from one iteration to the next as ratings shift.
+    """
  
     for iteration in range(iterations):
- 
         off_error    = {t: 0.0 for t in teams}
         def_error    = {t: 0.0 for t in teams}
         games_played = {t: 0   for t in teams}
  
-        for t1, t2, actual_s1, actual_s2 in games:
+        # Rebuild the competitive game list fresh each iteration for Phase 2
+        if ovr_filter is not None:
+            eligible_games = [
+                (t1, t2, s1, s2) for t1, t2, s1, s2 in games
+                if abs((off_rating[t1] + def_rating[t1]) -
+                        (off_rating[t2] + def_rating[t2])) <= ovr_filter
+            ]
+        else:
+            eligible_games = games
  
+        for t1, t2, actual_s1, actual_s2 in eligible_games:
             predicted_s1 = off_rating[t1] - def_rating[t2] + league_avg
             predicted_s2 = off_rating[t2] - def_rating[t1] + league_avg
  
@@ -148,9 +152,41 @@ def calculate_ratings(all_games, iterations=ITERATIONS):
                 def_rating[team] += (def_error[team] / games_played[team]) * LEARNING_RATE
  
         if (iteration + 1) % 100 == 0:
-            print(f"  Iteration {iteration + 1}/{iterations} complete")
+            eligible_count = len(eligible_games) if ovr_filter is not None else len(games)
+            print(f"  [{phase_label}] Iteration {iteration + 1}/{iterations} complete"
+                  + (f" | Competitive games this iteration: {eligible_count}" if ovr_filter else ""))
  
-    # OVR = OFF + DEF (no normalization — raw sum in points above/below average)
+ 
+def calculate_ratings(all_games, iterations=ITERATIONS):
+    # Strip date from games for rating calculations
+    games = [(t1, t2, s1, s2) for _, t1, s1, t2, s2 in all_games]
+ 
+    teams = list({t for t1, t2, _, _ in games for t in (t1, t2)})
+    if not teams:
+        return {}, {}, {}, 0
+ 
+    # Calculate league average points per game
+    all_scores = [s for _, _, s1, s2 in games for s in (s1, s2)]
+    league_avg = sum(all_scores) / len(all_scores)
+    print(f"  League average: {league_avg:.2f} points per game")
+ 
+    # Shared rating dicts — Phase 2 picks up exactly where Phase 1 ends
+    off_rating = {t: 0.0 for t in teams}
+    def_rating = {t: 0.0 for t in teams}
+ 
+    # --- Phase 1: All games ---
+    print(f"\n  Running Phase 1 ({iterations} iterations, all games)...")
+    run_iterations(games, teams, off_rating, def_rating, league_avg,
+                   iterations=iterations, phase_label="Phase 1", ovr_filter=None)
+ 
+    # --- Phase 2: Competitive games only, filter re-evaluated every iteration ---
+    print(f"\n  Running Phase 2 ({iterations} iterations, "
+          f"competitive games within {COMPETITIVE_THRESHOLD} OVR pts, dynamic filter)...")
+    run_iterations(games, teams, off_rating, def_rating, league_avg,
+                   iterations=iterations, phase_label="Phase 2",
+                   ovr_filter=COMPETITIVE_THRESHOLD)
+ 
+    # OVR = OFF + DEF (raw sum in points above/below average)
     ovr_rating = {t: round(off_rating[t] + def_rating[t], 2) for t in teams}
  
     return off_rating, def_rating, ovr_rating, league_avg
@@ -201,7 +237,7 @@ if __name__ == "__main__":
     print("\nSaving scoreboard CSV...")
     save_csv(all_games)
  
-    print(f"\nRunning {ITERATIONS} iterations...")
+    print(f"\nRunning {ITERATIONS} Phase 1 + {ITERATIONS} Phase 2 iterations...")
     off_rating, def_rating, ovr_rating, league_avg = calculate_ratings(all_games)
  
     print("\nSaving ratings JSON...")
