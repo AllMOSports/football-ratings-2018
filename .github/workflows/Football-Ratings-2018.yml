@@ -1,34 +1,33 @@
-name: Football Ratings - 2018
- 
+name: 2018 Football Ratings
 on:
-  schedule:
-    - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
-  workflow_dispatch:       # Allows manual triggering from GitHub Actions tab
- 
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  run-ratings:
+  update-ratings:
     runs-on: ubuntu-latest
- 
+
     steps:
-      - name: Checkout repo
+      - name: Check out repository
         uses: actions/checkout@v4
- 
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
- 
+
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
- 
-      - name: Run Football Ratings
+        run: pip install requests beautifulsoup4 numpy
+
+      - name: Run ratings script
         run: python football_ratings_2018.py
- 
-      - name: Commit and push results
+
+      - name: Commit and push ratings.json
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add spring_softball_ratings.json football scoreboard - 2018.csv
-          git diff --cached --quiet || git commit -m "Update football ratings"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add ratings.json
+          git diff --staged --quiet || git commit -m "Update ratings $(date +'%Y-%m-%d')"
           git push
- 
