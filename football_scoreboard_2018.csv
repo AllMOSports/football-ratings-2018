@@ -76,7 +76,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-24,Hermann,28,Montgomery County,12
 2018-08-24,Fair Grove,34,Mountain Grove,0
 2018-08-24,Monett,7,Mt. Vernon,37
-2018-08-24,Ozark,0,Neosho with Neosho Christian,35
+2018-08-24,Ozark,0,Neosho,35
 2018-08-24,Missouri Military Academy,0,North Callaway,63
 2018-08-24,Grandview,23,North Kansas City,30
 2018-08-24,Gallatin,31,North Platte,6
@@ -85,6 +85,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-24,Fulton,27,Osage,42
 2018-08-24,St. Francis Borgia,42,Pacific,6
 2018-08-24,Brookfield,6,Palmyra,7
+2018-08-24,Harrisburg,8,Paris with Faith Walk,45
 2018-08-24,Raymore-Peculiar,41,Park Hill South,35
 2018-08-24,Central (Springfield),20,Parkview,56
 2018-08-24,Rockwood Summit,14,Parkway Central,21
@@ -92,10 +93,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-24,Parkway West,35,Parkway South,0
 2018-08-24,Hickman,23,Pattonville,20
 2018-08-24,Maysville with Winston,14,Penney,43
-2018-08-24,DeSoto with Kingston,6,Perryville,3
+2018-08-24,DeSoto,6,Perryville,3
 2018-08-24,Lockwood with Golden City,12,Pierce City,36
 2018-08-24,Marionville,58,Pleasant Hope,0
-2018-08-24,Sumner,8,Poplar Bluff,50
+2018-08-24,Sumner with Transportation and Law,8,Poplar Bluff,50
 2018-08-24,Owensville,14,Potosi,55
 2018-08-24,Mid-Buchanan,40,Princeton with Mercer,14
 2018-08-24,Bishop LeBlond,12,Putnam County,26
@@ -104,6 +105,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-24,Branson,19,Republic,13
 2018-08-24,Lincoln,41,Rich Hill with Hume,8
 2018-08-24,Rock Bridge,33,Rockhurst,21
+2018-08-24,Troy Buchanan,44,Roosevelt with Cleveland NJROTC,18
 2018-08-24,St. James,20,Salem,24
 2018-08-24,Slater,38,Santa Fe,14
 2018-08-24,Houston,18,Sarcoxie,0
@@ -121,10 +123,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-24,Seneca,42,Springfield Catholic,50
 2018-08-24,Central (Park Hills),7,St. Clair,37
 2018-08-24,St. Charles West,14,St. Dominic,21
+2018-08-24,Summit Christian Academy,48,St. Michael the Archangel,17
 2018-08-24,Tipton,30,St. Paul Lutheran (Concordia),16
 2018-08-24,Odessa,48,St. Pius X (Kansas City),0
 2018-08-24,Dexter,0,Ste. Genevieve,21
-2018-08-24,Miller with Everton,43,Stockton,0
+2018-08-24,Miller,43,Stockton with Sheldon,0
 2018-08-24,Willow Springs,0,Strafford,50
 2018-08-24,Hillsboro,30,Sullivan,17
 2018-08-24,Hayti,46,Thayer,14
@@ -142,6 +145,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-24,Salisbury,7,Westran,53
 2018-08-24,Joplin,41,Willard,18
 2018-08-24,Sweet Springs with Malta Bend,12,Windsor,50
+2018-08-24,St. Pius X (Festus),42,Windsor (Imperial),14
 2018-08-24,Wright City,0,Winfield,43
 2018-08-25,Brentwood,39,Bayless,13
 2018-08-25,Normandy Collaborative,44,Carnahan,0
@@ -161,14 +165,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-30,Francis Howell,28,Kirkwood,37
 2018-08-30,Parkway South,3,Northwest (Cedar Hill),7
 2018-08-31,Midway,21,Archie,14
-2018-08-31,Stockton,14,Ash Grove,26
+2018-08-31,Stockton with Sheldon,14,Ash Grove,26
 2018-08-31,Smith-Cotton,22,Battle,39
 2018-08-31,East Buchanan,46,Bishop LeBlond,12
 2018-08-31,Raymore-Peculiar,35,Blue Springs South,34
 2018-08-31,Liberty (Mountain View),14,Bolivar,20
 2018-08-31,Holden,14,Boonville,49
 2018-08-31,Palmyra,39,Bowling Green,0
-2018-08-31,Neosho with Neosho Christian,20,Branson,7
+2018-08-31,Neosho,20,Branson,7
 2018-08-31,John Burroughs,41,Brentwood,12
 2018-08-31,Monroe City,8,Brookfield,0
 2018-08-31,Versailles,35,Buffalo,21
@@ -183,7 +187,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-31,Lee's Summit North,41,Central (St. Joseph),7
 2018-08-31,Centralia,19,Clark County,8
 2018-08-31,Santa Fe,22,Crest Ridge,54
-2018-08-31,Mehlville,52,DeSoto with Kingston,22
+2018-08-31,Mehlville,52,DeSoto,22
 2018-08-31,Salem,20,Dexter,28
 2018-08-31,Thayer,52,Doniphan,14
 2018-08-31,Appleton City with Montrose,41,Drexel with Miami (Amoret),16
@@ -214,6 +218,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-31,Pattonville,49,Holt,21
 2018-08-31,Cuba,22,Houston,61
 2018-08-31,Parkway North,0,Jackson,35
+2018-08-31,Roosevelt with Cleveland NJROTC,19,Jefferson (Festus),57
 2018-08-31,Hannibal,27,Jefferson City,30
 2018-08-31,Webb City,47,Joplin,27
 2018-08-31,Crystal City,0,Kelly,31
@@ -239,7 +244,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-31,Logan-Rogersville,13,McDonald County,21
 2018-08-31,Maysville with Winston,6,Mid-Buchanan,49
 2018-08-31,Mark Twain,0,Milan,21
-2018-08-31,Pleasant Hope,14,Miller with Everton,55
+2018-08-31,Pleasant Hope,14,Miller,55
 2018-08-31,Clopton with Elsberry,38,Missouri Military Academy,6
 2018-08-31,Osage,0,Moberly,34
 2018-08-31,Marshfield,31,Monett,23
@@ -268,6 +273,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-31,Ft. Zumwalt East,19,Rockwood Summit,48
 2018-08-31,West Plains,49,Rolla,0
 2018-08-31,Smithville,48,Ruskin,0
+2018-08-31,Paris with Faith Walk,14,Salisbury,12
 2018-08-31,Reeds Spring,28,Seneca,0
 2018-08-31,Polo,8,Slater,14
 2018-08-31,West Platte,26,South Harrison,30
@@ -277,9 +283,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-31,Union,26,St. Francis Borgia,44
 2018-08-31,Perryville,28,St. James,12
 2018-08-31,Lutheran South,29,St. Mary's South Side,28
+2018-08-31,St. Pius X (Kansas City),36,St. Michael the Archangel,25
 2018-08-31,Scott City,49,St. Vincent,14
 2018-08-31,Kearney,7,Staley,28
-2018-08-31,McCluer South-Berkeley,40,Sumner,0
+2018-08-31,McCluer South-Berkeley,40,Sumner with Transportation and Law,0
 2018-08-31,St. Paul Lutheran (Concordia),0,Sweet Springs with Malta Bend,30
 2018-08-31,North Callaway,35,Tipton,12
 2018-08-31,Lexington,44,Trenton,21
@@ -295,6 +302,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-08-31,North Kansas City,41,William Chrisman,7
 2018-08-31,Marionville,14,Willow Springs,34
 2018-08-31,Cole Camp,21,Windsor,0
+2018-08-31,Seckman,47,Windsor (Imperial),14
 2018-08-31,Montgomery County,26,Winfield,57
 2018-08-31,Raytown South,19,Winnetonka,7
 2018-08-31,Duchesne,14,Wright City,20
@@ -403,6 +411,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-07,McCluer South-Berkeley,26,Orchard Farm,37
 2018-09-07,Cuba,34,Owensville,38
 2018-09-07,Branson,6,Ozark,0
+2018-09-07,Scotland County,26,Paris with Faith Walk,0
 2018-09-07,Liberty North,7,Park Hill,20
 2018-09-07,Kickapoo,7,Parkview,44
 2018-09-07,Pattonville,18,Parkway North,0
@@ -423,7 +432,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-07,Fayette,36,Schuyler County,0
 2018-09-07,Nevada,12,Seneca,35
 2018-09-07,Poplar Bluff,0,Sikeston,34
-2018-09-07,Stockton,6,Skyline,44
+2018-09-07,Stockton with Sheldon,6,Skyline,44
 2018-09-07,De Smet Jesuit,35,SLUH,7
 2018-09-07,Warrensburg,21,Smith-Cotton,7
 2018-09-07,Grain Valley,0,Smithville,29
@@ -436,14 +445,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-07,Hermann,20,St. James,39
 2018-09-07,Carrollton,28,St. Paul Lutheran (Concordia),0
 2018-09-07,Lee's Summit,7,Staley,14
-2018-09-07,Miller with Everton,7,Strafford,42
+2018-09-07,Miller,7,Strafford,42
 2018-09-07,Holt,28,Timberland,30
 2018-09-07,Windsor,38,Tipton,22
 2018-09-07,Bishop DuBourg with Hancock,6,Trinity Catholic,36
 2018-09-07,Wright City,26,Van-Far with Community,14
 2018-09-07,Cole Camp,24,Warsaw,6
 2018-09-07,Warrenton,14,Washington,19
-2018-09-07,Neosho with Neosho Christian,0,Webb City,41
+2018-09-07,Neosho,0,Webb City,41
 2018-09-07,Lexington,42,Wellington-Napoleon,24
 2018-09-07,Camdenton,7,West Plains,41
 2018-09-07,Lawson,43,West Platte,21
@@ -453,6 +462,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-07,Confluence Prep Academy Charter,0,Winfield,61
 2018-09-08,Lift for Life Academy Charter,74,Bayless,0
 2018-09-08,Willow Springs,6,Cabool,7
+2018-09-08,St. Michael the Archangel,0,Fair Grove,42
 2018-09-08,Farmington,34,Hillsboro,36
 2018-09-08,East (Kansas City),6,Hogan Prep Academy Charter,38
 2018-09-08,Westminster Christian Academy,7,John Burroughs,28
@@ -462,11 +472,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-08,Northwest (Cedar Hill),33,Riverview Gardens,0
 2018-09-08,Sullivan,0,Union,12
 2018-09-09,Jefferson (Festus),60,Herculaneum,0
+2018-09-10,Roosevelt with Cleveland NJROTC,34,Carnahan,6
 2018-09-10,North County,20,Festus,42
 2018-09-10,Gateway,6,Miller Career Academy,39
-2018-09-10,Sumner,14,Priory,56
+2018-09-10,Sumner with Transportation and Law,14,Priory,56
 2018-09-10,Grandview (Hillsboro),13,St. Pius X (Festus),49
 2018-09-10,Soldan International Studies,42,Vashon,6
+2018-09-10,DeSoto,36,Windsor (Imperial),14
 2018-09-13,Bishop DuBourg with Hancock,48,Missouri Military Academy,6
 2018-09-13,Parkway North,26,Parkway West,19
 2018-09-13,Charleston,36,Scott City,23
@@ -497,7 +509,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-14,El Dorado Springs,28,Cole Camp,16
 2018-09-14,Valle Catholic,49,Crystal City,0
 2018-09-14,Christian Brothers College,49,De Smet Jesuit,14
-2018-09-14,Miller with Everton,57,Diamond,18
+2018-09-14,Miller,57,Diamond,18
 2018-09-14,Rich Hill with Hume,12,Drexel with Miami (Amoret),52
 2018-09-14,Lutheran St. Charles,62,Duchesne,0
 2018-09-14,West Platte,20,East Buchanan,48
@@ -532,6 +544,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-14,Clark County,32,Kirksville,16
 2018-09-14,Rockwood Summit,13,Kirkwood,34
 2018-09-14,Tipton,12,Knob Noster,52
+2018-09-14,Paris with Faith Walk,0,Knox County,36
 2018-09-14,Monett,7,Lamar,43
 2018-09-14,Plattsburg,14,Lawson,55
 2018-09-14,Glendale,40,Lebanon,51
@@ -542,6 +555,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-14,Windsor,12,Lincoln,19
 2018-09-14,Jasper,58,Lockwood with Golden City,20
 2018-09-14,Aurora,40,Logan-Rogersville,30
+2018-09-14,St. Michael the Archangel,52,Lone Jack with Kingsville,21
 2018-09-14,Westminster Christian Academy,10,Lutheran North,49
 2018-09-14,Kelly,42,Malden,34
 2018-09-14,Greenfield,8,Marionville,14
@@ -554,10 +568,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-14,Bowling Green,50,Montgomery County,28
 2018-09-14,Willow Springs,0,Mountain Grove,29
 2018-09-14,Reeds Spring,27,Mt. Vernon,26
-2018-09-14,Carthage,49,Neosho with Neosho Christian,7
+2018-09-14,Carthage,49,Neosho,7
 2018-09-14,East Newton,20,Nevada,64
 2018-09-14,Ozark,14,Nixa,42
-2018-09-14,DeSoto with Kingston,28,North County,60
+2018-09-14,DeSoto,28,North County,60
 2018-09-14,Mid-Buchanan,49,North Platte,0
 2018-09-14,Seckman,14,Northwest (Cedar Hill),6
 2018-09-14,East (Kansas City),12,Oak Grove,47
@@ -597,7 +611,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-14,Maryville,56,St. Pius X (Kansas City),0
 2018-09-14,Herculaneum,20,St. Vincent,44
 2018-09-14,Potosi,6,Ste. Genevieve,21
-2018-09-14,Stockton,0,Strafford,70
+2018-09-14,Stockton with Sheldon,0,Strafford,70
 2018-09-14,St. Clair,54,Sullivan,14
 2018-09-14,Lafayette County,21,Summit Christian Academy,28
 2018-09-14,University Academy Charter,40,Sweet Springs with Malta Bend,6
@@ -612,6 +626,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-14,St. Charles,50,Warrenton,40
 2018-09-14,Ft. Zumwalt East,21,Washington,0
 2018-09-14,Hillcrest,0,Waynesville,19
+2018-09-14,Lift for Life Academy Charter,44,Windsor (Imperial),18
 2018-09-14,Kearney,49,Winnetonka,13
 2018-09-14,North Callaway,52,Wright City,22
 2018-09-15,Odessa,70,Central (Kansas City),6
@@ -621,6 +636,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-15,McCluer,0,McCluer North,41
 2018-09-15,Priory,8,MICDS,42
 2018-09-15,Clayton,30,Normandy Collaborative,26
+2018-09-15,Sumner with Transportation and Law,0,Roosevelt with Cleveland NJROTC,42
 2018-09-15,Hogan Prep Academy Charter,50,Southeast,33
 2018-09-15,Miller Career Academy,34,Vashon,6
 2018-09-17,Hazelwood West,12,Hazelwood Central,15
@@ -655,10 +671,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-21,Mexico,28,Clinton,12
 2018-09-21,Wright City,46,Clopton with Elsberry,52
 2018-09-21,Santa Fe,40,Concordia,63
+2018-09-21,Roosevelt with Cleveland NJROTC,63,Confluence Prep Academy Charter,0
 2018-09-21,Jefferson (Festus),63,Crystal City,0
 2018-09-21,St. James,46,Cuba,12
 2018-09-21,Vianney,17,De Smet Jesuit,14
-2018-09-21,Festus,28,DeSoto with Kingston,18
+2018-09-21,Festus,28,DeSoto,18
 2018-09-21,Doniphan,6,Dexter,42
 2018-09-21,Marionville,40,Diamond,0
 2018-09-21,Midway,38,Drexel with Miami (Amoret),6
@@ -679,6 +696,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-21,Central (New Madrid County),14,Hayti,68
 2018-09-21,St. Francis Borgia,41,Helias Catholic,13
 2018-09-21,Camdenton,55,Hillcrest,16
+2018-09-21,Windsor (Imperial),18,Hillsboro,44
 2018-09-21,Francis Howell Central,20,Holt,35
 2018-09-21,Thayer,6,Houston,7
 2018-09-21,Appleton City with Montrose,0,Jasper,35
@@ -707,9 +725,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-21,Nevada,20,McDonald County,42
 2018-09-21,Seckman,7,Mehlville,49
 2018-09-21,Penney,29,Mid-Buchanan,27
-2018-09-21,Ash Grove,21,Miller with Everton,62
+2018-09-21,Ash Grove,21,Miller,62
 2018-09-21,Principia,31,Missouri Military Academy,6
-2018-09-21,Neosho with Neosho Christian,21,Nixa,6
+2018-09-21,Neosho,21,Nixa,6
 2018-09-21,Van-Far with Community,12,North Callaway,48
 2018-09-21,Kennett,40,North County,30
 2018-09-21,Van Horn,70,Northeast (Kansas City),6
@@ -719,6 +737,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-21,Hermann,29,Owensville,34
 2018-09-21,Carl Junction,10,Ozark,17
 2018-09-21,Highland,0,Palmyra,36
+2018-09-21,Marceline,51,Paris with Faith Walk,6
 2018-09-21,Raymore-Peculiar,14,Park Hill,34
 2018-09-21,Parkway North,19,Parkway Central,16
 2018-09-21,Eureka,48,Parkway South,0
@@ -750,7 +769,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-21,Lone Jack with Kingsville,21,St. Paul Lutheran (Concordia),6
 2018-09-21,Herculaneum,0,St. Pius X (Festus),35
 2018-09-21,Chillicothe,14,St. Pius X (Kansas City),25
-2018-09-21,Fair Grove,42,Stockton,0
+2018-09-21,Fair Grove,42,Stockton with Sheldon,0
 2018-09-21,Windsor,6,Strafford,45
 2018-09-21,Pacific,27,Sullivan,51
 2018-09-21,Skyline,30,Summit Christian Academy,28
@@ -780,7 +799,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-22,Webster Groves,13,Ritenour,36
 2018-09-22,McCluer North,12,Riverview Gardens,6
 2018-09-22,Miller Career Academy,39,Soldan International Studies,6
-2018-09-22,Carnahan,39,Sumner,40
+2018-09-22,St. Michael the Archangel,43,Southeast,6
+2018-09-22,Carnahan,39,Sumner with Transportation and Law,40
 2018-09-22,Jennings,44,University City,8
 2018-09-22,Gateway,36,Vashon,0
 2018-09-22,Priory,14,Westminster Christian Academy,21
@@ -820,10 +840,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-28,Lindbergh,3,Eureka,27
 2018-09-28,Odessa,34,Excelsior Springs,16
 2018-09-28,Strafford,14,Fair Grove,17
+2018-09-28,Paris with Faith Walk,8,Fayette,40
 2018-09-28,Park Hill,23,Fort Osage,7
 2018-09-28,Ft. Zumwalt West,14,Francis Howell,34
 2018-09-28,Francis Howell North,6,Francis Howell Central,34
-2018-09-28,DeSoto with Kingston,51,Fredericktown,41
+2018-09-28,DeSoto,51,Fredericktown,41
 2018-09-28,Ft. Zumwalt South,22,Ft. Zumwalt East,29
 2018-09-28,Hannibal,47,Fulton,0
 2018-09-28,South Harrison,22,Gallatin,23
@@ -869,11 +890,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-28,Polo,18,Maysville with Winston,24
 2018-09-28,Centralia,14,Mexico,35
 2018-09-28,Jasper,14,Midway,35
-2018-09-28,Sarcoxie,14,Miller with Everton,27
+2018-09-28,Sarcoxie,14,Miller,27
 2018-09-28,Marshall,13,Moberly,37
 2018-09-28,Seneca,49,Monett,28
 2018-09-28,Logan-Rogersville,0,Mt. Vernon,30
-2018-09-28,Joplin,20,Neosho with Neosho Christian,6
+2018-09-28,Joplin,20,Neosho,6
 2018-09-28,Bowling Green,6,North Callaway,42
 2018-09-28,Truman,0,North Kansas City,40
 2018-09-28,Mehlville,42,Northwest (Cedar Hill),14
@@ -910,10 +931,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-28,Orchard Farm,20,St. Charles West,56
 2018-09-28,St. Dominic,0,St. Francis Borgia,30
 2018-09-28,St. Clair,42,St. James,0
+2018-09-28,Drexel with Miami (Amoret),0,St. Michael the Archangel,41
 2018-09-28,Crystal City,12,St. Vincent,49
 2018-09-28,Liberty North,10,Staley,22
-2018-09-28,El Dorado Springs,49,Stockton,0
-2018-09-28,Soldan International Studies,26,Sumner,22
+2018-09-28,El Dorado Springs,49,Stockton with Sheldon,0
+2018-09-28,Soldan International Studies,26,Sumner with Transportation and Law,22
 2018-09-28,Cabool,7,Thayer,34
 2018-09-28,Milan,43,Trenton,22
 2018-09-28,Bolivar,13,Union,21
@@ -929,6 +951,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-28,Webb City,41,Willard,0
 2018-09-28,Salem,38,Willow Springs,7
 2018-09-28,Sherwood,8,Windsor,63
+2018-09-28,Festus,41,Windsor (Imperial),6
 2018-09-28,Montgomery County,28,Wright City,8
 2018-09-29,Miller Career Academy,42,Carnahan,0
 2018-09-29,McCluer North,15,Hazelwood East,44
@@ -941,6 +964,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-09-29,Harrisburg,26,Missouri Military Academy,24
 2018-09-29,Brentwood,25,Principia,14
 2018-09-29,John Burroughs,7,Priory,23
+2018-09-29,Gateway,12,Roosevelt with Cleveland NJROTC,51
 2018-09-29,Summit Christian Academy,49,University Academy Charter,0
 2018-10-05,Midway,24,Adrian,0
 2018-10-05,Hollister,16,Aurora,13
@@ -965,17 +989,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-05,Savannah,57,Chillicothe,13
 2018-10-05,Palmyra,8,Clark County,30
 2018-10-05,Tipton,18,Cole Camp,28
-2018-10-05,Hillsboro,8,DeSoto with Kingston,14
+2018-10-05,Hillsboro,8,DeSoto,14
 2018-10-05,Kennett,44,Dexter,0
 2018-10-05,Chaffee,33,Doniphan,20
 2018-10-05,Monett,35,East Newton,6
 2018-10-05,Portageville,52,East Prairie,28
 2018-10-05,Sikeston,6,Farmington,24
-2018-10-05,Stockton,28,Forsyth,6
+2018-10-05,Stockton with Sheldon,28,Forsyth,6
 2018-10-05,Francis Howell,50,Francis Howell North,7
 2018-10-05,Ft. Zumwalt East,12,Ft. Zumwalt North,30
 2018-10-05,Liberty (Wentzville),20,Ft. Zumwalt South,23
-2018-10-05,Sumner,18,Gateway,34
+2018-10-05,Sumner with Transportation and Law,18,Gateway,34
 2018-10-05,Jefferson (Festus),48,Grandview (Hillsboro),7
 2018-10-05,Ash Grove,7,Greenfield,39
 2018-10-05,California,0,Hallsville,49
@@ -998,9 +1022,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-05,Appleton City with Montrose,14,Liberal with Bronaugh,46
 2018-10-05,Cabool,26,Liberty (Mountain View),28
 2018-10-05,Webster Groves,3,Lindbergh,46
-2018-10-05,Miller with Everton,27,Lockwood with Golden City,8
+2018-10-05,Miller,27,Lockwood with Golden City,8
 2018-10-05,Springfield Catholic,31,Logan-Rogersville,0
 2018-10-05,Concordia,28,Lone Jack with Kingsville,21
+2018-10-05,Paris with Faith Walk,14,Louisiana,44
 2018-10-05,John Burroughs,0,Lutheran North,65
 2018-10-05,Sarcoxie,29,Marionville,22
 2018-10-05,Clopton with Elsberry,26,Mark Twain,41
@@ -1015,8 +1040,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-05,North Callaway,34,Montgomery County,40
 2018-10-05,Salem,13,Mountain Grove,14
 2018-10-05,Seneca,14,Mt. Vernon,37
-2018-10-05,Carl Junction,12,Neosho with Neosho Christian,35
+2018-10-05,Carl Junction,12,Neosho,35
 2018-10-05,Cassville,50,Nevada,8
+2018-10-05,Windsor (Imperial),26,North County,54
 2018-10-05,Hickman,20,North Kansas City,34
 2018-10-05,Lathrop,76,North Platte,6
 2018-10-05,East (Kansas City),42,Northeast (Kansas City),12
@@ -1063,6 +1089,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-05,Cardinal Ritter,40,St. Francis Borgia,35
 2018-10-05,Sullivan,22,St. James,36
 2018-10-05,Father Tolton,42,St. Mary's South Side,44
+2018-10-05,Pierce City,34,St. Michael the Archangel,16
 2018-10-05,St. Vincent,27,St. Pius X (Festus),32
 2018-10-05,Benton,21,St. Pius X (Kansas City),41
 2018-10-05,Central (St. Joseph),0,Staley,48
@@ -1088,7 +1115,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-06,Pembroke Hill,43,Central (Kansas City),0
 2018-10-06,Parkway Central,27,Clayton,0
 2018-10-06,Holt,7,Ft. Zumwalt West,35
-2018-10-06,Sumner,18,Gateway,34
+2018-10-06,Sumner with Transportation and Law,18,Gateway,34
 2018-10-06,Fox,20,Hazelwood East,24
 2018-10-06,Northwest (Cedar Hill),36,Hazelwood West,34
 2018-10-06,Parkway West,7,Ladue Horton Watkins,42
@@ -1098,6 +1125,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-06,Jennings,43,Normandy Collaborative,14
 2018-10-06,Lutheran South,21,Priory,28
 2018-10-06,Francis Howell Central,6,Troy Buchanan,46
+2018-10-06,Roosevelt with Cleveland NJROTC,48,Vashon,6
 2018-10-06,MICDS,24,Westminster Christian Academy,21
 2018-10-12,Marionville,41,Ash Grove,0
 2018-10-12,Jefferson City,17,Battle,14
@@ -1108,6 +1136,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,Ava,58,Cabool,12
 2018-10-12,Branson,7,Carl Junction,28
 2018-10-12,Gateway,26,Carnahan,16
+2018-10-12,St. Michael the Archangel,7,Center,42
 2018-10-12,De Smet Jesuit,63,Central (Cape Girardeau),0
 2018-10-12,East Prairie,20,Charleston,49
 2018-10-12,Bishop LeBlond,33,Chillicothe,40
@@ -1115,6 +1144,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,Smith-Cotton,47,Clinton,7
 2018-10-12,Concordia,21,Crest Ridge,49
 2018-10-12,St. Pius X (Festus),46,Crystal City,8
+2018-10-12,Windsor (Imperial),36,Cuba,24
 2018-10-12,Central (Park Hills),7,Dexter,13
 2018-10-12,Archie,32,Drexel with Miami (Amoret),0
 2018-10-12,Winfield,36,Duchesne,0
@@ -1174,6 +1204,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,West Platte,8,Mid-Buchanan,46
 2018-10-12,Appleton City with Montrose,0,Midway,28
 2018-10-12,South Harrison,0,Milan,6
+2018-10-12,Roosevelt with Cleveland NJROTC,54,Miller Career Academy,36
 2018-10-12,Kirksville,34,Moberly,32
 2018-10-12,McDonald County,12,Monett,18
 2018-10-12,Clark County,20,Monroe City,44
@@ -1193,10 +1224,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,Ladue Horton Watkins,35,Pattonville,7
 2018-10-12,Summit Christian Academy,10,Pembroke Hill,12
 2018-10-12,Lawson,20,Penney,0
-2018-10-12,Miller with Everton,12,Pierce City,44
+2018-10-12,Miller,12,Pierce City,44
 2018-10-12,Lathrop,39,Plattsburg,0
 2018-10-12,Odessa,48,Pleasant Hill,38
-2018-10-12,Stockton,30,Pleasant Hope,0
+2018-10-12,Stockton with Sheldon,30,Pleasant Hope,0
 2018-10-12,Trenton,32,Polo,28
 2018-10-12,Chaminade College Prep,34,Poplar Bluff,13
 2018-10-12,Lee's Summit North,42,Raymore-Peculiar,21
@@ -1211,6 +1242,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,Liberty (Mountain View),54,Salem,7
 2018-10-12,Diamond,0,Sarcoxie,27
 2018-10-12,Maryville,41,Savannah,7
+2018-10-12,Paris with Faith Walk,12,Schuyler County,36
 2018-10-12,Harrisburg,12,Scotland County,48
 2018-10-12,Kelly,13,Scott City,20
 2018-10-12,East Newton,8,Seneca,55
@@ -1225,7 +1257,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,Missouri Military Academy,0,St. Paul Lutheran (Concordia),17
 2018-10-12,Lafayette (St. Joseph),28,St. Pius X (Kansas City),0
 2018-10-12,Grandview (Hillsboro),0,St. Vincent,42
-2018-10-12,DeSoto with Kingston,0,Ste. Genevieve,14
+2018-10-12,DeSoto,0,Ste. Genevieve,14
 2018-10-12,Owensville,13,Sullivan,47
 2018-10-12,Santa Fe,0,Tipton,36
 2018-10-12,St. James,3,Union,41
@@ -1238,7 +1270,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-12,Orchard Farm,59,Warrenton,47
 2018-10-12,Glendale,14,Waynesville,53
 2018-10-12,Central (Springfield),8,West Plains,70
-2018-10-12,Neosho with Neosho Christian,21,Willard,14
+2018-10-12,Neosho,21,Willard,14
 2018-10-12,Thayer,40,Willow Springs,0
 2018-10-12,Platte County,45,Winnetonka,20
 2018-10-12,South Callaway,41,Wright City,21
@@ -1255,7 +1287,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-13,Louisiana,6,Priory,52
 2018-10-13,Hazelwood Central,44,Riverview Gardens,0
 2018-10-13,Lift for Life Academy Charter,30,Soldan International Studies,26
-2018-10-13,Vashon,24,Sumner,20
+2018-10-13,Vashon,24,Sumner with Transportation and Law,20
 2018-10-13,Normandy Collaborative,38,University City,22
 2018-10-18,Seckman,15,Eureka,55
 2018-10-18,Troy Buchanan,39,Festus,38
@@ -1266,6 +1298,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-19,Reeds Spring,27,Aurora,17
 2018-10-19,Willow Springs,6,Ava,32
 2018-10-19,Chillicothe,34,Benton,19
+2018-10-19,Roosevelt with Cleveland NJROTC,34,Bishop DuBourg with Hancock,24
 2018-10-19,Cameron,37,Bishop LeBlond,35
 2018-10-19,Park Hill,23,Blue Springs,36
 2018-10-19,Central (Cape Girardeau),21,Bolivar,41
@@ -1283,10 +1316,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-19,Winnetonka,35,Central (St. Joseph),39
 2018-10-19,Brookfield,6,Clark County,32
 2018-10-19,Affton,36,Clayton,48
+2018-10-19,St. Michael the Archangel,35,Clinton,13
 2018-10-19,Lincoln,28,Cole Camp,21
 2018-10-19,Tipton,46,Concordia,31
 2018-10-19,Lone Jack with Kingsville,7,Crest Ridge,50
-2018-10-19,Potosi,3,DeSoto with Kingston,7
+2018-10-19,Potosi,3,DeSoto,7
 2018-10-19,Lockwood with Golden City,36,Diamond,8
 2018-10-19,Scott City,42,Doniphan,0
 2018-10-19,Fredericktown,22,East Prairie,32
@@ -1341,10 +1375,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-19,Moberly,34,Mexico,7
 2018-10-19,Butler,7,Midway,34
 2018-10-19,Polo,6,Milan,36
-2018-10-19,Marionville,6,Miller with Everton,14
+2018-10-19,Marionville,6,Miller,14
 2018-10-19,Clopton with Elsberry,56,Montgomery County,58
 2018-10-19,Hollister,14,Mt. Vernon,20
-2018-10-19,Republic,13,Neosho with Neosho Christian,17
+2018-10-19,Republic,13,Neosho,17
 2018-10-19,Monett,28,Nevada,0
 2018-10-19,Raytown,35,North Kansas City,34
 2018-10-19,Penney,26,North Platte,24
@@ -1355,6 +1389,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-19,Eldon,31,Osage,12
 2018-10-19,St. James,21,Pacific,14
 2018-10-19,Monroe City,26,Palmyra,21
+2018-10-19,Westran,55,Paris with Faith Walk,26
 2018-10-19,Liberty North,41,Park Hill South,10
 2018-10-19,Waynesville,16,Parkview,56
 2018-10-19,Jackson,42,Parkway Central,0
@@ -1384,7 +1419,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-19,Sullivan,0,St. Francis Borgia,41
 2018-10-19,Carnahan,0,St. Mary's South Side,56
 2018-10-19,Valle Catholic,34,St. Pius X (Festus),26
-2018-10-19,Greenfield,48,Stockton,12
+2018-10-19,Greenfield,48,Stockton with Sheldon,12
 2018-10-19,Slater,14,Strafford,55
 2018-10-19,Wellington-Napoleon,40,Sweet Springs with Malta Bend,26
 2018-10-19,Mountain Grove,20,Thayer,6
@@ -1400,13 +1435,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-19,Plattsburg,38,West Platte,28
 2018-10-19,Belton,38,William Chrisman,41
 2018-10-19,Rich Hill with Hume,13,Windsor,41
+2018-10-19,Bayless,0,Windsor (Imperial),50
 2018-10-19,Lift for Life Academy Charter,30,Winfield,26
 2018-10-20,McCluer North,13,Hazelwood Central,20
 2018-10-20,Hazelwood West,36,Hazelwood East,12
 2018-10-20,Central (Kansas City),20,Hogan Prep Academy Charter,69
 2018-10-20,North County,36,John Burroughs,42
 2018-10-20,Soldan International Studies,0,MICDS,37
-2018-10-20,Sumner,0,Perryville,48
+2018-10-20,Sumner with Transportation and Law,0,Perryville,48
 2018-10-20,Cuba,24,Principia,35
 2018-10-20,McCluer,6,Riverview Gardens,34
 2018-10-20,East (Kansas City),34,University Academy Charter,46
@@ -1421,11 +1457,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-26,Pleasant Hope,0,Pierce City,68
 2018-10-26,Cabool,7,Thayer,14
 2018-10-26,Ash Grove,12,Skyline,62
-2018-10-26,Marionville,6,Miller with Everton,35
+2018-10-26,Marionville,6,Miller,35
 2018-10-26,Harrisburg,12,Fayette,56
 2018-10-26,Concordia,28,Slater,40
 2018-10-26,Santa Fe,20,Tipton,32
 2018-10-26,Salisbury,6,Sweet Springs with Malta Bend,34
+2018-10-26,Paris with Faith Walk,14,Scotland County,56
 2018-10-26,Knox County,0,South Shelby,36
 2018-10-26,Louisiana,14,Westran,53
 2018-10-26,Schuyler County,18,Mark Twain,44
@@ -1462,13 +1499,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-26,Mountain Grove,0,Liberty (Mountain View),35
 2018-10-26,Willow Springs,6,Fair Grove,45
 2018-10-26,Houston,0,Strafford,20
-2018-10-26,Stockton,6,Lamar,63
+2018-10-26,Stockton with Sheldon,6,Lamar,63
 2018-10-26,Butler,7,Sarcoxie,39
 2018-10-26,Warsaw,20,El Dorado Springs,56
 2018-10-26,East Newton,6,Versailles,48
 2018-10-26,St. Paul Lutheran (Concordia),0,Summit Christian Academy,68
 2018-10-26,University Academy Charter,8,Knob Noster,61
 2018-10-26,Lone Jack with Kingsville,8,Holden,42
+2018-10-26,St. Michael the Archangel,7,Lafayette County,49
 2018-10-26,Richmond,0,Lathrop,49
 2018-10-26,Trenton,26,Macon,55
 2018-10-26,Brookfield,21,Lawson,35
@@ -1487,7 +1525,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-26,Hollister,7,Seneca,43
 2018-10-26,Nevada,14,Reeds Spring,51
 2018-10-26,Aurora,0,Mt. Vernon,12
-2018-10-26,Sumner,0,Trinity Catholic,88
+2018-10-26,Sumner with Transportation and Law,0,Trinity Catholic,88
 2018-10-26,McCluer South-Berkeley,28,Orchard Farm,17
 2018-10-26,Normandy Collaborative,18,St. Charles West,58
 2018-10-26,Soldan International Studies,6,Lutheran St. Charles,54
@@ -1506,16 +1544,18 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-10-26,Central (Cape Girardeau),0,West Plains,61
 2018-10-26,Sikeston,32,North County,30
 2018-10-26,Hillsboro,43,Farmington,54
-2018-10-26,DeSoto with Kingston,6,Festus,36
+2018-10-26,DeSoto,6,Festus,36
+2018-10-26,Windsor (Imperial),0,Ladue Horton Watkins,49
 2018-10-26,Affton,6,St. Mary's South Side,48
 2018-10-26,Gateway,8,Rockwood Summit,51
+2018-10-26,Bishop DuBourg with Hancock,12,Roosevelt with Cleveland NJROTC,30
 2018-10-26,Pacific,7,Camdenton,55
 2018-10-26,Helias Catholic,46,Union,21
 2018-10-26,Sullivan,0,St. Francis Borgia,41
 2018-10-26,Washington,7,Rolla,50
 2018-10-26,McDonald County,13,Webb City,55
 2018-10-26,Hillcrest,12,Carl Junction,43
-2018-10-26,Monett,20,Neosho with Neosho Christian,49
+2018-10-26,Monett,20,Neosho,49
 2018-10-26,Bolivar,20,Marshfield,24
 2018-10-26,Jennings,26,Clayton,7
 2018-10-26,Riverview Gardens,6,Parkway North,56
@@ -1567,7 +1607,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-11-02,St. Vincent,13,Hayti,74
 2018-11-02,Scott City,28,Valle Catholic,56
 2018-11-02,Thayer,42,Pierce City,7
-2018-11-02,Miller with Everton,44,Skyline,16
+2018-11-02,Miller,44,Skyline,16
 2018-11-02,Slater,6,Fayette,60
 2018-11-02,Sweet Springs with Malta Bend,12,Tipton,0
 2018-11-02,South Shelby,46,Scotland County,28
@@ -1614,10 +1654,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-11-02,Sikeston,0,West Plains,43
 2018-11-02,Festus,28,Farmington,21
 2018-11-02,St. Mary's South Side,7,Ladue Horton Watkins,42
+2018-11-02,Roosevelt with Cleveland NJROTC,12,Rockwood Summit,56
 2018-11-02,Helias Catholic,35,Camdenton,57
 2018-11-02,Rolla,14,St. Francis Borgia,52
 2018-11-02,Carl Junction,7,Webb City,54
-2018-11-02,Marshfield,7,Neosho with Neosho Christian,35
+2018-11-02,Marshfield,7,Neosho,35
 2018-11-02,Priory,0,Ft. Zumwalt East,31
 2018-11-02,Westminster Christian Academy,14,Hannibal,49
 2018-11-02,Grandview,14,Warrensburg,31
@@ -1652,7 +1693,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-11-03,Parkway North,18,MICDS,21
 2018-11-03,Ft. Zumwalt South,6,McCluer North,33
 2018-11-09,Valle Catholic,7,Hayti,28
-2018-11-09,Miller with Everton,16,Thayer,42
+2018-11-09,Miller,16,Thayer,42
 2018-11-09,Sweet Springs with Malta Bend,6,Fayette,44
 2018-11-09,Westran,31,South Shelby,8
 2018-11-09,Liberal with Bronaugh,6,Adrian,29
@@ -1678,7 +1719,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2018-11-09,Festus,6,West Plains,45
 2018-11-09,Rockwood Summit,15,Ladue Horton Watkins,38
 2018-11-09,St. Francis Borgia,13,Camdenton,24
-2018-11-09,Neosho with Neosho Christian,7,Webb City,35
+2018-11-09,Neosho,7,Webb City,35
 2018-11-09,Hannibal,48,Ft. Zumwalt East,34
 2018-11-09,Harrisonville,28,Warrensburg,35
 2018-11-09,Smithville,33,Platte County,28
