@@ -77,7 +77,6 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "193": "Slater",
         "194": "Smith-Cotton",
         "197": "South Callaway",
-        "463": "Stockton",
         "207": "Sullivan",
         "208": "Sumner",
         "469": "Sweet Springs with Malta Bend",
@@ -90,15 +89,16 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "575": "Renaissance Academy Charter",
         "172": "St. James",
         "240": "Braymer with Breckenridge",
-        "35": "DeSoto with Kingston",
         "525": "John F. Kennedy with Valley Park",
         "331": "King City with Union Star",
         "342": "Liberal with Bronaugh",
-        "369": "Miller with Everton",
-        "375": "Neosho with Neosho Christian",
         "483": "Van-Far with Community",
         "549": "St. Mary's South Side",
         "509": "Bishop DuBourg with Hancock",
+        "156": "Paris with Faith Walk",
+        "189": "Roosevelt with Cleveland NJROTC",
+        "463": "Stockton with Sheldon",
+        "208": "Sumner with Transportation and Law",
     }
  
     df = pd.read_csv(schools_csv)
