@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 21, 2026 at 01:25 AM",
+  "last_updated": "July 22, 2026 at 07:39 PM",
   "league_average": 25.99,
   "classification": 3,
   "teams": [
@@ -181,17 +181,6 @@
     },
     {
       "ovr_rank": 17,
-      "school": "Reeds Spring",
-      "classification": 3,
-      "district": 6,
-      "ovr_rating": 8.86,
-      "off_rating": 4.4,
-      "off_rank": 21,
-      "def_rating": 4.46,
-      "def_rank": 22
-    },
-    {
-      "ovr_rank": 18,
       "school": "Center",
       "classification": 3,
       "district": 7,
@@ -200,6 +189,17 @@
       "off_rank": 29,
       "def_rating": 11.53,
       "def_rank": 10
+    },
+    {
+      "ovr_rank": 18,
+      "school": "Reeds Spring",
+      "classification": 3,
+      "district": 6,
+      "ovr_rating": 8.86,
+      "off_rating": 4.4,
+      "off_rank": 21,
+      "def_rating": 4.46,
+      "def_rank": 22
     },
     {
       "ovr_rank": 19,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 21, 2026 at 01:25 AM",
+  "last_updated": "July 22, 2026 at 07:39 PM",
   "league_average": 25.99,
   "teams": [
     {
@@ -1280,17 +1280,6 @@
     },
     {
       "ovr_rank": 117,
-      "school": "Reeds Spring",
-      "classification": 3,
-      "district": 6,
-      "ovr_rating": 8.86,
-      "off_rating": 4.4,
-      "off_rank": 119,
-      "def_rating": 4.46,
-      "def_rank": 126
-    },
-    {
-      "ovr_rank": 118,
       "school": "Center",
       "classification": 3,
       "district": 7,
@@ -1299,6 +1288,17 @@
       "off_rank": 167,
       "def_rating": 11.53,
       "def_rank": 75
+    },
+    {
+      "ovr_rank": 118,
+      "school": "Reeds Spring",
+      "classification": 3,
+      "district": 6,
+      "ovr_rating": 8.86,
+      "off_rating": 4.4,
+      "off_rank": 119,
+      "def_rating": 4.46,
+      "def_rank": 126
     },
     {
       "ovr_rank": 119,
@@ -2413,17 +2413,6 @@
     },
     {
       "ovr_rank": 220,
-      "school": "Windsor",
-      "classification": 1,
-      "district": 4,
-      "ovr_rating": -15.4,
-      "off_rating": -7.76,
-      "off_rank": 214,
-      "def_rating": -7.64,
-      "def_rank": 220
-    },
-    {
-      "ovr_rank": 221,
       "school": "Osage",
       "classification": 3,
       "district": 5,
@@ -2432,6 +2421,17 @@
       "off_rank": 244,
       "def_rating": -4.75,
       "def_rank": 201
+    },
+    {
+      "ovr_rank": 221,
+      "school": "Windsor",
+      "classification": 1,
+      "district": 4,
+      "ovr_rating": -15.4,
+      "off_rating": -7.76,
+      "off_rank": 214,
+      "def_rating": -7.64,
+      "def_rank": 220
     },
     {
       "ovr_rank": 222,
